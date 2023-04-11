@@ -1,6 +1,6 @@
 # Primeiramente
 
-É necessário que seja configurado acesso ao banco de dados no arquivo ´application.properties´ que está localizado em ´src/main/resources/application.properties´.
+É necessário que seja configurado acesso ao banco de dados no arquivo `application.properties` que está localizado em `src/main/resources/application.properties`.
 
 # Compilando
 
